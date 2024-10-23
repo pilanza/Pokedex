@@ -1,6 +1,6 @@
 # Pokédex
 
-This is my version of a Pokédex.
+This is my version of a Pokédex. <br>
 🚧 Under Construction 🚧
 
 ## Content Table
@@ -24,20 +24,20 @@ Version: 20.10.0
 
 #### Next
 
-The documentation can be found at: https://nextjs.org/docs
+The documentation can be found at: https://nextjs.org/docs <br>
 Version: 15.0.1
 
 #### PokéAPI
 
-The documentation can be found at: https://pokeapi.co/docs/v2
+The documentation can be found at: https://pokeapi.co/docs/v2 <br>
 Version: V2
 
 #### React
 
-The documentation can be found at: https://19.react.dev/learn
+The documentation can be found at: https://19.react.dev/learn <br>
 Version: 19.0
 
 ## Getting Started
 
-Clone this repository using `git clone https://github.com/P3terD/Scarlet-RPG`
+Clone this repository using `git clone https://github.com/P3terD/Scarlet-RPG` <br>
 After cloning, use `node install`.
